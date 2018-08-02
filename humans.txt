@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Manthos Stavrou m_stauroy@hotmail.com
 
 # THANKS
 
