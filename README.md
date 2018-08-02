@@ -10,4 +10,4 @@ This repository is for showing how Git and GitHub work
 
 ###Copyright
 
-2018 Git.Training.
+2018 Git.Training.MANTHOS
