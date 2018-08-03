@@ -10,6 +10,6 @@ This repository is for showing how Git and GitHub work. Adding a line for rebasi
 
 Please fork this repository and then issue Pull Requests for review.
 
-###Copyright
+### Copyright
 
-2018 Git.Training.MANTHOS
+2018 Git.Training.MANTHOS.All right reserved
